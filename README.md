@@ -1,4 +1,3 @@
-# Eldila
 ## Innovative Solutions to Innovative Problems
 
 We make all the websites.
